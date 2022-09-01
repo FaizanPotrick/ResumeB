@@ -9,6 +9,7 @@ import { useParams } from "react-router-dom";
 import * as Right from "./Right/Right";
 import Context from "../Context";
 
+
 function Template() {
   const params = useParams();
   const [target, setTarget] = useState(() => {
