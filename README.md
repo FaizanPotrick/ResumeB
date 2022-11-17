@@ -1,100 +1,70 @@
 
 # RESUMEB
 
-
-Build beautiful, recruiter-tested resumes in a few clicks! Our resume builder is powerful and easy to use, with a range of amazing functions. Custom-tailor resumes for any job within minutes. Increase your interview chances and rise above the competition.
+Resume making can be stressful, time-consuming and confusing at times . Here's a Quick and Easy Way to Create Your Professional Resume. With many modern and professional templates to choose from, all of which can be customized to your liking. Save time and frustration in our one-stop-shop for all your job-seeking needs that will complement your effective resume.
 
 
 ## About the Project
 
-A Quick and Easy Way to Create Your Professional Resume. 30+ Professional Resume Templates Choose from over thirty modern and professional templates. All of which can be customized to your liking. Fast and Easy to Use Our resume builder lets you easily and quickly create a resume using our resume wizard.
+We’ve developed our resume builder with one goal in mind, to help you find a great job faster. Our resume builder is powerful and easy to use, with a range of amazing functions. Custom-tailor resumes for any job within minutes. Increase your interview chances and rise above the competition.
 
-DMCE Committee Portal is a website made for the ease of Engineering College students. The site will help students to know  about the functioning of various committees in the college. This is also an initiative to promote the new budding engineers to explore their field and also develop their personality in overall aspects. This is a distinct and a separate place, where students irrespective of their branches and academic year would be able to join and know about the college committees.
+Customize resumes in a few clicks with no additional software. Offline syncing save your changes (even if you lose your internet connection) and allow you to stay creative and organized. A host of functions provide you with additional options and safety. Data protection, a great interface and other features make resume creation a breeze!
 
-The proposed system is a simplistic management system which gives information about various clubs and other helpful activities happening in the college. 
-Various opportunities can be availed by the students for their experience and knowledge.
+Make use of PDF files to perfectly preserve your beautiful formatting.
 
 
 ## Built With
 
-
-- [Vue js](https://vuejs.org/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [Node js](https://nodejs.org/en/)
-- [Express js](https://www.expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-
-
-
-
-## Usage
-
-
-- #### To connect with various committees within college on a single platfrom.
-- #### To grow Networking among the Students.
+- [React js](https://reactjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
 
 ## Features
 
-
-- #### One Click Event Registration.
-- #### Integrated with Machine Learning Chat Bot.
-- #### Cross platform.
+- #### No need of Login or Registration to access our website.
+- #### On Revisiting the page, changes made in the previous session will be preserved.
+- #### Our Platform provides data security and ensures safety.
 
 
 ## Prerequisites
 
+#### Install [Node js](https://nodejs.org/en/)
 
+#### Install NPM Package
 ```bash
   npm install npm@latest -g
 ```
 
 
- ## Installation
-
+## Installation
 
 Steps to install and setup the app are demonstrated with following commands:
 
 #### Clone the repository
 ```bash
-  git clone https://github.com/FaizanPotrick/DMCE-Committee-Portal.git
+  git clone https://github.com/FaizanPotrick/ResumeB.git
 ```
 ```bash
-  cd DMCE-Committee-Portal
+  cd ReseumeB
 ```
  
 #### Install npm packages
 ```bash
   npm install
 ```
+
+#### Run Project
 ```bash
-  cd client
-```
-```bash
-  npm install
+  npm start
 ```
 
-#### Run server `cd ..` 
+#### Build Project
 ```bash
-  node app.js
-```
- OR
-
-```bash
-  nodemon app.js
+  npm run build
 ```
 
-#### Run client `cd client`
-```bash
-  npm run dev
-```
-OR
-```bash
-  npm run start
-```
 
 ## Contributing
-
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -104,7 +74,7 @@ Don't forget to give the project a star! Thanks again!
 #### 1. Fork the repository.
 #### 2. Clone your forked repository to local machine.
 ```bash
-git clone https://github.com/username/DMCE-Committee-Portal.git
+git clone https://github.com/FaizanPotrick/ResumeB.git
 ```
 #### 3. Create a branch 
 ```bash
@@ -122,15 +92,13 @@ git push -u origin branchname
 
 #### 7. Wait for your PR review and merge approval!
 
-## License
 
+## License
 
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See `LICENSE.md `for more information.
 
+
 ## Acknowledgements
 
-
- - [Vue js](https://vuejs.org/)
- - [TailwindCSS](https://tailwindcss.com/)
- - [Node js](https://nodejs.org/en/)
- - [MongoDB](https://www.mongodb.com/)
+- [React js](https://reactjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
