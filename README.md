@@ -1,70 +1,136 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# RESUMEB
 
-## Available Scripts
 
-In the project directory, you can run:
+Build beautiful, recruiter-tested resumes in a few clicks! Our resume builder is powerful and easy to use, with a range of amazing functions. Custom-tailor resumes for any job within minutes. Increase your interview chances and rise above the competition.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## About the Project
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+A Quick and Easy Way to Create Your Professional Resume. 30+ Professional Resume Templates Choose from over thirty modern and professional templates. All of which can be customized to your liking. Fast and Easy to Use Our resume builder lets you easily and quickly create a resume using our resume wizard.
 
-### `npm test`
+DMCE Committee Portal is a website made for the ease of Engineering College students. The site will help students to know  about the functioning of various committees in the college. This is also an initiative to promote the new budding engineers to explore their field and also develop their personality in overall aspects. This is a distinct and a separate place, where students irrespective of their branches and academic year would be able to join and know about the college committees.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The proposed system is a simplistic management system which gives information about various clubs and other helpful activities happening in the college. 
+Various opportunities can be availed by the students for their experience and knowledge.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [Vue js](https://vuejs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Node js](https://nodejs.org/en/)
+- [Express js](https://www.expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Usage
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+- #### To connect with various committees within college on a single platfrom.
+- #### To grow Networking among the Students.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Features
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- #### One Click Event Registration.
+- #### Integrated with Machine Learning Chat Bot.
+- #### Cross platform.
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Prerequisites
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+  npm install npm@latest -g
+```
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ ## Installation
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Steps to install and setup the app are demonstrated with following commands:
 
-### `npm run build` fails to minify
+#### Clone the repository
+```bash
+  git clone https://github.com/FaizanPotrick/DMCE-Committee-Portal.git
+```
+```bash
+  cd DMCE-Committee-Portal
+```
+ 
+#### Install npm packages
+```bash
+  npm install
+```
+```bash
+  cd client
+```
+```bash
+  npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Run server `cd ..` 
+```bash
+  node app.js
+```
+ OR
+
+```bash
+  nodemon app.js
+```
+
+#### Run client `cd client`
+```bash
+  npm run dev
+```
+OR
+```bash
+  npm run start
+```
+
+## Contributing
+
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+#### 1. Fork the repository.
+#### 2. Clone your forked repository to local machine.
+```bash
+git clone https://github.com/username/DMCE-Committee-Portal.git
+```
+#### 3. Create a branch 
+```bash
+git checkout -b branchname
+```
+#### 4. Make your changes
+
+#### 5. Commit and push your changes
+```bash
+git add . 
+git commit -m 'message'
+git push -u origin branchname
+```
+#### 6. Create a new pull request from the forked repository.
+
+#### 7. Wait for your PR review and merge approval!
+
+## License
+
+
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See `LICENSE.md `for more information.
+
+## Acknowledgements
+
+
+ - [Vue js](https://vuejs.org/)
+ - [TailwindCSS](https://tailwindcss.com/)
+ - [Node js](https://nodejs.org/en/)
+ - [MongoDB](https://www.mongodb.com/)
